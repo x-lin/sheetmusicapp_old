@@ -1,0 +1,3 @@
+# Module audio
+# RPC service class, partial path of RPC policy file
+audio.client.communication.MidiFileRetrieverService, 3194EE379D3F503794031893A8278E6D.gwt.rpc

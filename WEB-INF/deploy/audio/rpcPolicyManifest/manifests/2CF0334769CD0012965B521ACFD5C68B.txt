@@ -1,0 +1,2 @@
+serviceClass: audio.client.communication.MidiFileRetrieverService
+path: 3194EE379D3F503794031893A8278E6D.gwt.rpc
